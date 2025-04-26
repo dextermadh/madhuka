@@ -54,7 +54,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=dextermadh&show_icons=true&locale=en&layout=compact&theme=gruvbox](https://github-readme-stats.vercel.app/api/top-langs?username=dextermadh&show_icons=true&locale=en&layout=compact&theme=gruvbox)" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dextermadh&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
 <p align="center">
