@@ -10,13 +10,25 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dextermadh&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dextermadh&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=dextermadh&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
+    </td>
+  </tr>
+</table>
+
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=dextermadh&theme=dark&hide_border=true" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextermadh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextermadh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="500"/>
 
 </div>
+
+
+
 
 
 ## 🏆 GitHub Trophies
