@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Madhuka Abhishek
 🌱 I’m currently learning **machine learning and deep learning**, focusing on intelligent systems and real-world AI applications  <br>💬 Ask me about **machine learning concepts, deep learning models, or AI-driven projects**  <br>📫 Reach me at **madhukaabhishek.business@gmail.com**  <br>⚡ Fun fact: **I’d rather train a neural network than style a webpage!**
 
 
