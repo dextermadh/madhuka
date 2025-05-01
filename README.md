@@ -53,7 +53,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=dextermadh&theme=react&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" width="400"/>
     </td>
     <td>
-      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dextermadh&theme=react&hide_border=true)
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=dextermadh&theme=react&hide_border=true" alt="GitHub Streak"
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@
 ## 📈 Visitor Count
 
 <div align="center">
- ![Visitor Count](https://komarev.com/ghpvc/?username=dextermadh&color=blue)
+ <img src="https://komarev.com/ghpvc/?username=dextermadh&color=blue" alt="Visitor Count"/>
 </div>
 
 ---
